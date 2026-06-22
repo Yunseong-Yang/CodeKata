@@ -94,9 +94,6 @@ int bfs()
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
     cin >> r >> c;
     v.resize(r);
 
