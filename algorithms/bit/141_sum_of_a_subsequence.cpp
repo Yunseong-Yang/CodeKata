@@ -1,3 +1,7 @@
+// Date: 2026-06-29
+// BOJ 1182
+
+
 #include <iostream>
 #include <vector>
 
