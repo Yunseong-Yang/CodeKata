@@ -1,3 +1,6 @@
+// 2026-07-01
+// BOJ 19942
+
 #include <iostream>
 #include <vector>
 #include <cmath>
