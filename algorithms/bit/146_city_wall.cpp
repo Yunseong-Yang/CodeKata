@@ -1,3 +1,6 @@
+// Date: 2026-07-06
+// BOJ 2234
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
