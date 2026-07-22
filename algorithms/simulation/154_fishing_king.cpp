@@ -1,3 +1,6 @@
+// Date: 2026-07-17
+// BOJ 17143
+
 #include <iostream>
 #include <vector>
 
